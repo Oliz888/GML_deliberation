@@ -2,18 +2,7 @@ from deliberation to action: the evolution of collective under the GFM and decen
 
 
 
-
-Deliberation 
-
-
-
-
-
-Action 
-
-
-
-
+# Plurality Book Github and Reference 
 https://github.com/pluralitybook/plurality
 
 ```
@@ -27,8 +16,8 @@ https://github.com/pluralitybook/plurality
 ```
 
 
+# How Taiwan is leading way in Digital Democracy 
 https://newpublic.substack.com/p/how-taiwan-is-leading-the-way-in
-
 
 This approach leverages alternative social media algorithms to augment human deliberations, prioritizing content based on the principle of collaboration across diversity, consistent with ⿻, to which [hundreds of millions of people](https://arxiv.org/abs/2210.15723) are currently exposed each week. **This platform [has been shown](https://arxiv.org/abs/2311.11282) to encourage the exploration of diverse political information, compared to the previous methods of moderating misinformation.**  
 这种方法利用替代社交媒体算法来增强人类的思考，根据跨多样性协作的原则对内容进行优先级排序，这与目前每周有[数亿人](https://arxiv.org/abs/2210.15723)接触到的⿻一致。**与之前调节错误信息的方法相比，该平台[已被证明](https://arxiv.org/abs/2311.11282)可以鼓励探索多样化的政治信息。**
@@ -36,7 +25,7 @@ This approach leverages alternative social media algorithms to augment human del
 
 
 One of the most obvious directions that is a subject of active development is how systems like [Polis](https://pol.is/home) and Community Notes could be extended with modern graph theory and [GFMs](https://en.wikipedia.org/wiki/Foundation_model). The "[Talk to the City](https://ai.objectives.institute/talk-to-the-city)" project of the [AI Objectives Institute](https://ai.objectives.institute/), for example, illustrates how GFMs can be used to replace a list of statements characterizing a group's views with an interactive agent one can talk to and get a sense of the perspective. Soon, it should be possible to go further, with GFMs allowing participants to move beyond limited short statements and simple up-and-down votes. Instead, they will be able to fully express themselves in reaction to the conversation. Meanwhile, the models will condense this conversation, making it legible to others who can then participate. **Models could also help look for areas of rough consensus not simply based on common votes but on a natural language understanding of and response to expressed positions.** A recent large-scale study highlights the positive impact of such tools in enhancing online democratic discussions. In [this experiment](https://www.law.nyu.edu/sites/default/files/upload_documents/Bakshi%20Meares%20and%20Weaver%20Portals%20to%20Politics%20Study.pdf), a GFM was used to provide real-time, evidence-based suggestions aimed at refining the quality of political discourse to each participant in the conversation. **The results indicated a noticeable improvement in the overall quality of conversations, fostering a more democratic, reciprocal exchange of ideas.**  
-积极开发的最明显的方向之一是如何使用现代图论和[GFM](https://en.wikipedia.org/wiki/Foundation_model)来扩展像[Polis](https://pol.is/home)和 Community Notes 这样的系统。例如， [AI Objectives Institute](https://ai.objectives.institute/)的“[与城市对话](https://ai.objectives.institute/talk-to-the-city)”项目说明了如何使用 GFM 来用一个可以与之交谈并了解观点的交互式代理来替换表征群体观点的陈述列表。很快，应该可以走得更远，GFM 允许参与者超越有限的简短声明和简单的上下投票。相反，他们将能够充分表达自己对对话的反应。同时，模型将压缩此对话，使其对随后参与的其他人来说清晰可辨。**模型还可以帮助寻找粗略共识的领域，不仅基于共同投票，还基于对所表达立场的自然语言理解和回应。**最近的一项大规模研究强调了此类工具在加强在线民主讨论方面的积极影响。在[这个实验](https://www.law.nyu.edu/sites/default/files/upload_documents/Bakshi%20Meares%20and%20Weaver%20Portals%20to%20Politics%20Study.pdf)中，GFM 用于提供实时的、基于证据的建议，旨在提高对话中每个参与者的政治话语质量。**结果表明，对话的整体质量显着提高，促进了更加民主、互惠的思想交流**
+==积极开发的最明显的方向之一是如何使用现代图论和[GFM](https://en.wikipedia.org/wiki/Foundation_model)来扩展像[Polis](https://pol.is/home)和 Community Notes 这样的系统。例如， [AI Objectives Institute](https://ai.objectives.institute/)的“[与城市对话](https://ai.objectives.institute/talk-to-the-city)”项目说明了如何使用 GFM 来用一个可以与之交谈并了解观点的交互式代理来替换表征群体观点的陈述列表。很快，应该可以走得更远，GFM 允许参与者超越有限的简短声明和简单的上下投票。相反，他们将能够充分表达自己对对话的反应。同时，模型将压缩此对话，使其对随后参与的其他人来说清晰可辨。**模型还可以帮助寻找粗略共识的领域，不仅基于共同投票，还基于对所表达立场的自然语言理解和回应。**最近的一项大规模研究强调了此类工具在加强在线民主讨论方面的积极影响。在[这个实验](https://www.law.nyu.edu/sites/default/files/upload_documents/Bakshi%20Meares%20and%20Weaver%20Portals%20to%20Politics%20Study.pdf)中，GFM 用于提供实时的、基于证据的建议，旨在提高对话中每个参与者的政治话语质量。**结果表明，对话的整体质量显着提高，促进了更加民主、互惠的思想交流**==
 
 
 While most discussion of bridging systems focuses on building consensus, **another powerful role is to support the regeneration of diversity and productive conflict.** On the one hand, they help identify different opinion groups in ways that are not a deterministic function of historical assumptions or identities, potentially allowing these groups to find each other and organize around their perspective. On the other hand, by surfacing as representing consensus positions that have diverse support, they also create diverse opposition that can coalesce into a new conflict that does not reinforce existing divisions, potentially allowing organization around that perspective. In short, collective response systems can play just as important a role in mapping and evolving conflict dynamically as helping to navigate it productively.  
@@ -44,7 +33,7 @@ While most discussion of bridging systems focuses on building consensus, **anot
 
 
 
-## Augmented Deliberation 强化审议
+# Augmented Deliberation 强化审议
 https://www.plurality.net/v/chapters/5-4/zh-tw/?mode=dark
 
 Augmented deliberation 
@@ -52,7 +41,7 @@ Augmented deliberation
 - participatory, open and interactive nature
 
 
-## Collective Intelligence Project - White paper  
+# Collective Intelligence Project - White paper  
 https://www.cip.org/whitepaper
 
 
@@ -95,9 +84,9 @@ https://www.plurality.net/v/chapters/4-1/zh-tw/?mode=dark
 - 隱私：最後，雖然大多數人對於「記錄」上述社交活動中自然產生的資訊感到安心，但為了驗證而「分享」它們，就可能帶來重要的隱私問題。這樣的資訊本應「保留」在合乎常理的社交脈絡裡，因此需要非常謹慎，以確保將其用於身分驗證不會違反這些 "脈絡完整性" 規範。 正如我們在章尾所提到的，應對此一挑戰，正是下一章的重點。
 
 
-https://www.plurality.net/v/chapters/5-6/zh-tw/?mode=dark
 
-### 未来的投票
+# 未来的投票
+https://www.plurality.net/v/chapters/5-6/zh-tw/?mode=dark
 
 「平方投票法」和「流动式民主」激进和潜在的变革潜力揭示了，未来的投票系统可能比我们习惯的投票系统要更加丰富得多。可能性的范围几乎是无穷无尽的，但一些有前途的可能性，有助于说明它们的广度：
 
@@ -111,8 +100,9 @@ https://www.plurality.net/v/chapters/5-6/zh-tw/?mode=dark
     
 - 「辅助式即时投票」（Assisted real-time voting）：另一个经常被讨论的想法是，如果数位助理能够学会模拟投票者的观点和偏好，代表他们投票，并接受投票者的审查、审计，那么投票就可以变得更加频繁和细致。
 
+# 明日的行政管理
+
 https://www.plurality.net/v/chapters/5-5/zh-tw/?mode=dark
-### 明日的行政管理
 
 迄今為止，最重要的技術進步之一是通常被稱為「人工智慧」（AI）的技術。然而，正如我們一再指出的「人工智慧」一詞更多地是指一種願望，而不是指一套特定的工具。在這種情況下，涉及工具的細節對於區分過去的行政官僚機構與最新一代有時被稱為「生成式基礎模型」（GFM）的潛力至關重要。20 世紀 70 年代和 80 年代占主導地位的 AI 工作，有時被稱為「老式 AI」（GOFAI），在許多方面都是嘗試將傳統的官僚處理過程自動化。工程師通過與「專家」交流，試圖將行政軟體編寫為複雜的嵌套規則集（通常稱為「決策樹」）：病人發燒了嗎？如果是，她的眼睛是否發紅 ; 如果不是，她的淋巴結是否發炎？這種人工智慧方式在 20 世紀 90 年代遇到了很大的障礙，且逐漸失寵，後來基本上被「機器學習」所取代，特別是神經網路及其最雄心壯志的產物 -- 生成式基礎模型（GFM）。
 
@@ -136,11 +126,12 @@ https://www.plurality.net/v/chapters/5-5/zh-tw/?mode=dark
 此外，GFM 的力量與其說源於「AI」，不如說源於其網絡化和概率性結構，這種結構使其能夠適應更加多樣化和模糊的輸入。這種結構也可以存在於人際關係網絡中，包括更具適應性的官僚機構形式、基於分組交換的信任關係等。例如，在開放源碼和維基風格的專案管理中，這種方法就很重要。
 
 
+# AI and Practicing Democracy 
 https://ash.harvard.edu/resources/ai-and-practicing-democracy/ 
 
 
 
-
+# Bridging Systems - Formal Metrics 
 https://bridging.systems/formal-metrics/![[截圖 2024-11-24 上午11.30.17.png]]
 - Node level homophily 
 - group level homophily 
@@ -158,6 +149,7 @@ https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-alg
 将超越现有期望范围的目标与推荐系统当前的设计方式进行对比是有启发性的。基于协同过滤的早期方法侧重于推荐具有相似收听历史的人喜欢的曲目，而当代的推荐系统将长期历史与短期收听历史（例如，最后几首曲目）、人口统计数据（如果可用）结合起来。 ，以及系统记录的任何辅助信息。尽管推荐在用户、上下文和（可能的）聆听类型的轨迹方面更加复杂，但还是由记录的用户行为的精心拼贴组成。因此，推荐系统受到系统已经观察到的过去行为的限制。这样，推荐系统采用的任何品味发展模型都仅限于早期用户的体验。因此，推荐的空间受到记录的消费行为的限制，任何新的品味发展轨迹，即探索新“视野”的轨迹，都超出了当前推荐设计的“想象力”。 
 
 
+# Recommenders with values developing recommendation engines in a public service organizations 
 https://knightcolumbia.org/content/recommenders-with-values-developing-recommendation-engines-in-a-public-service-organization
 
 目标和价值观应如何编码到 BBC 的推荐算法中？ 2）如何将不同的观点（编辑、数据和产品）结合在一起，以确保相关领域知识在我们的推荐系统中得到体现？
@@ -186,7 +178,8 @@ Either after or simultaneously alongside the optimization stage, DS work on mode
 Our data science development process may not always include all these stages, and we may even go back to a previous step, if we have evidence that the approach we have taken does not lead to good results. This is part of an iterative approach, where we try to continuously improve the performance of our models or address their shortcomings, e.g., by implementing an approach to reduce popularity bias into one of our personalized recommenders, through a technique called Inverse Propensity Scoring (Yang, et al., 2018).  
 我们的数据科学开发过程可能并不总是包括所有这些阶段，如果我们有证据表明我们所采取的方法不会带来良好的结果，我们甚至可能会回到上一步。这是迭代方法的一部分，我们尝试不断提高模型的性能或解决其缺点，例如，通过一种称为逆倾向评分的技术（Yang等，2018）。
 
-### Democracy next 
+# Democracy next 
+
 https://www.demnext.org/papers
 
 
@@ -211,20 +204,20 @@ https://www.demnext.org/uploads/Citizens-Assemblies-Democratic-Responses-to-Auth
 
 
 
-### Pol.is 
+# Pol.is 
 https://pol.is/home
 
 
-### Nomic.AI 
+# Nomic.AI 
 https://www.nomic.ai/
 Zhikai Chen
 
-### Graph Foundational Model (GFM)
+# Graph Foundational Model (GFM)
 https://arxiv.org/html/2402.02216v2
 
 
 
-### ‘Generative CI’ through Collective Response Systems
+# Generative CI’ through Collective Response Systems
 https://arxiv.org/pdf/2302.00672
 There are many existing partial implementations of collective response systems and a few complete ones. Some of the most notable include WikiSurvey’s like Polis and All Our Ideas [1, 9].15 Remesh and similar tools focus on approximation components which enable greater scale [4]. An alternative approach can be found in bracketing systems like PSiApp [10]. Some processes created for citizens’ assemblies [12] and deliberative polls [13] may also fulfill the criteria for a collective response system. Relatedly, sortitionbased selection of participants can be used to select people within a much larger group in situations where using collective response systems for the entire group is impractical. 
 
@@ -236,7 +229,7 @@ Other kinds of online machine learning systems are also likely to be related to 
 More generally, collective response systems are often meant to address multi-principal-agent problems [11], so prior work related to such problems is likely to be relevant. Finally disciplines including social choice theory have much to say on potential definitions of ‘best’—though the insight of other disciplines can also be incorporated. This is clearly not an exhaustive list, but simply meant to illustrate part of the breadth of related work.
 
 
-### Measuring Deliberation 2.0: Standards, Discourse Types, and Sequentialization 
+# Measuring Deliberation 2.0: Standards, Discourse Types, and Sequentialization 
 https://ash.harvard.edu/wp-content/uploads/2024/02/baechtiger_0.pdf
 
 There are micro- and macro-analytic as well as direct and indirect measures of deliberation (for an overview, see Black et al. 2009). 
@@ -245,10 +238,10 @@ There are micro- and macro-analytic as well as direct and indirect measures of d
 Studies using direct measures focus on the actual process of deliberation, while studies using indirect measures assess deliberation based on either antecedents (for instance, by measuring the extent to which conditions necessary for deliberation are met) or outcomes of the discussion (for example, by measuring post-deliberation changes in participants’ preferences).![[截圖 2024-11-24 下午1.09.22.png]]
 
 
-### AI can help humans find common ground in democratic deliberation 
+# AI can help humans find common ground in democratic deliberation 
 https://www.science.org/doi/10.1126/science.adq2852
 
-## Structured Abstract 结构化摘要
+# Structured Abstract 结构化摘要
 
 ### INTRODUCTION 介绍
 
@@ -275,7 +268,7 @@ This research demonstrates the potential of AI to enhance collective deliberatio
 
 
 
-### A Behavioral Approach to the Rational Choice Theory of Collective Action: Presidential Address, American Political Science Association, 1997  
+# A Behavioral Approach to the Rational Choice Theory of Collective Action: Presidential Address, American Political Science Association, 1997  
 集体行动理性选择理论的行为方法：主席演讲，美国政治科学协会，1997 年
 
 https://www-cambridge-org.proxy.library.georgetown.edu/core/journals/american-political-science-review/article/abs/behavioral-approach-to-the-rational-choice-theory-of-collective-action-presidential-address-american-political-science-association-1997/5C1DEEB7336D463E53067FCB7ACEDC57
@@ -283,23 +276,23 @@ https://www-cambridge-org.proxy.library.georgetown.edu/core/journals/american-po
 Extensive empirical evidence and theoretical developments in multiple disciplines stimulate a need to expand the range of rational choice models to be used as a foundation for the study of social dilemmas and collective action. After an introduction to the problem of overcoming social dilemmas through collective action, the remainder of this article is divided into six sections. The first briefly reviews the theoretical predictions of currently accepted rational choice theory related to social dilemmas. The second section summarizes the challenges to the sole reliance on a complete model of rationality presented by extensive experimental research. In the third section, I discuss two major empirical findings that begin to show how individuals achieve results that are “better than rational” by building conditions where reciprocity, reputation, and trust can help to overcome the strong temptations of short-run self-interest. The fourth section raises the possibility of developing second-generation models of rationality, the fifth section develops an initial theoretical scenario, and the final section concludes by examining the implications of placing reciprocity, reputation, and trust at the core of an empirically tested, behavioral theory of collective action.  
 多个学科的广泛经验证据和理论发展激发了扩大理性选择模型范围的需求，以作为研究社会困境和集体行动的基础。在介绍了通过集体行动克服社会困境的问题之后，本文的其余部分分为六个部分。第一部分简要回顾了目前公认的与社会困境相关的理性选择理论的理论预测。第二部分总结了广泛的实验研究所提出的对完全依赖完整理性模型的挑战。在第三部分中，我讨论了两个主要的实证发现，这些发现开始表明个人如何通过创造互惠、声誉和信任有助于克服短期自身利益的强烈诱惑的条件来实现“优于理性”的结果。第四部分提出了发展第二代理性模型的可能性，第五部分提出了一个初步的理论场景，最后一部分通过检验将互惠、声誉和信任置于经过实证检验的行为核心的影响来得出结论。集体行动理论。
 
-### Beyond Markets and States: Polycentric Governance of Complex Economic Systems  
+# Beyond Markets and States: Polycentric Governance of Complex Economic Systems  
 超越市场和国家：复杂经济系统的多中心治理
 
 Elinor Ostrom 埃莉诺·奥斯特罗姆
 https://www.jstor.org/stable/27871226
 
 
-### More-than-human governance experiments in Europe
+# More-than-human governance experiments in Europe
 https://www.demnext.org/uploads/MOTH_Report_29Oct.pdf
 
 
-### Citizens' Assemblies: Democratic Responses to Authoritarian Challenges in Central and Eastern Europe
+# Citizens' Assemblies: Democratic Responses to Authoritarian Challenges in Central and Eastern Europe
 https://www.demnext.org/uploads/Citizens-Assemblies-Democratic-Responses-to-Authoritarian-Challenges-in-Central-and-Eastern-Europe_2024-11-20-110352_nsha.pdf
 
 
 
-### Trigger Warning
+# Trigger Warning
 https://superflux.in/index.php/work/trigger-warning/#
 
 
@@ -320,7 +313,7 @@ As digital communication technologies have been increasingly adopted, the phenom
 随着数字通信技术的日益普及，上下文崩溃现象对人们在线互动的方式产生了进一步的影响。在线环境的这一特征是个人身份被压缩或瓦解的现象，以便在数字空间中引导想象的受众。 [“语境崩溃”一词是由媒体理论家 Alice Marwick 和微软研究院首席研究员 Danah Boyd 于 2011 年创造的](https://journals.sagepub.com/doi/10.1177/1461444810365313)。他们的研究结果表明，社交媒体技术使人们很难处理自己的多样性和潜在受众的多样性。
 
 
-### My twitter 
+# My twitter 
 https://superflux.in/index.php/work/trigger-warning/#
 [The battleground of the 21st century is virtual, but the tactics of mass manipulation remain the same] Filter bubbles + law of group polarization + context collapse -> divided and absurdity society [https://superflux.in/index.php/work/trigger-warning/#…](https://t.co/2pJsLkibs7) How may GFM and DLTs (Distributed Ledger Technologies) reshape the democratic deliberation
 
@@ -329,7 +322,7 @@ https://superflux.in/index.php/work/trigger-warning/#
 In the digital age, filter bubbles, group polarization, and context collapse fragment society, echoing age-old tactics of mass manipulation. Graph Theory and Network Analysis (GTNA) offer tools to model and understand these dynamics, potentially reshaping democratic deliberation. By analyzing online interactions, GTNA can identify echo chambers and bridge divides, fostering more inclusive and informed discourse. For a speculative exploration of these themes, see Superflux's "Trigger Warning."在数字时代，过滤泡沫、群体两极分化和环境瓦解了碎片化社会，与古老的大规模操纵策略相呼应。图论和网络分析 （GTNA） 提供了建模和理解这些动态的工具，有可能重塑民主审议。通过分析在线互动，GTNA 可以识别回音室并弥合鸿沟，促进更具包容性和知情的讨论。有关这些主题的推测性探索，请参阅 Superflux 的“触发警告
 
 
-### REIMAGINING DEMOCRACY FOR AI 
+# REIMAGINING DEMOCRACY FOR AI 
 https://muse.jhu.edu/pub/1/article/907697/pdf?casa_token=gRU1ZFJFagsAAAAA:nJBwhyMBepVfudvwPTs4L4psNDX11AV7HOHEn4apGXLMgy_u70i0c-WE6akKzZdDchHFnIxr0g
 
 
@@ -338,7 +331,7 @@ If we continue on our current course, advances in AI may take us down one of two
 ==“Deliberative Infrastructure” Before It’s Too Late== In the last nine months, we have gone from having almost no recognition of the necessity to think about democratic innovations to seeing almost every major AI company begin to explore how best to incorporate aspects of deliberative democracy into their work. I have also started to see interest from people in government and international organizations such as the UN. But if we are to have any chance of running deliberative processes in time to handle the urgent issues around AI at a global level, we need to massively improve every aspect of the representative deliberative process—enabling sortition in regions where it is currently difficult, developing the organizational expertise to run deliberations that will sometimes span the globe, and applying the latest technologies to enhance and reimagine these processes
 
 
-### Plural Publics 
+# Plural Publics 
 https://ash.harvard.edu/wp-content/uploads/2024/03/Plural-Publics-1.pdf
 
 Tools to help guide us 
@@ -351,20 +344,19 @@ Tools to help guide us
 
 ==While the concept of plural publics provides a high-level design, many open questions remain. What is the interface between what a machine knows and what a human knows? To what extent and in what cases is deniabil - ity sufficient for preserving context? When, and in what amount, is common knowledge necessary or desired as humans begin to communicate alongside artificial agents? Can we measure the necessary context needed to enter a public? How do we facilitate commu - nication and interoperation across many both nested and intersecting publics without undermining contextual integrity? What is the most efficient way to scale digital certificates on the internet today? What identification methods do we need so that members of a public can communicate securely among each other? What lessons can be drawn from the digital rights management ecosystem to the development of publics today? These are complex, sociotechnical questions, the kind that we would expect to take decades to work out. Unfortunately, we may not have decades: the rise of GFMs threaten, absent good answers to these questions, to under - mine the very foundations of pluralism, trust, and identity. Work in this, ranging from theory quickly to this application, could hardly be more urgently needed==
 
-
-### # Optimizing for What? Algorithmic Amplification and Society 
+# Optimizing for What? Algorithmic Amplification and Society 
 https://knightcolumbia.org/events/optimizing-for-what-algorithmic-amplification-and-society
 
 Can check the guest list for potential supervisor 
 
-### Ethics of Decentralized Social Technologies: Lessons from Web3, the Fediverse, and Beyond
+# Ethics of Decentralized Social Technologies: Lessons from Web3, the Fediverse, and Beyond
 https://ash.harvard.edu/wp-content/uploads/2024/03/Ethics-of-Decentralized-Social-Technologies-1.pdf
 
 https://ash.harvard.edu/wp-content/uploads/2024/03/GP_Putting-Florishing-First.pdf
 
 
 
-### # How ChatGPT Hijacks DemocracyChatGPT
+# How ChatGPT Hijacks DemocracyChatGPT
 https://www.nytimes.com/2023/01/15/opinion/ai-chatgpt-lobbying-democracy.html
 
 A system that can understand political networks, if paired with the textual-generation capabilities of ChatGPT, could identify the member of Congress with the most leverage over a particular policy area — say, corporate taxation or military spending. Like human lobbyists, such a system could target undecided representatives sitting on committees controlling the policy of interest and then focus resources on members of the majority party when a bill moves toward a floor vote.  
@@ -376,7 +368,7 @@ Once individuals and strategies are identified, an A.I. chatbot like ChatGPT cou
 
 
 
-### # The Web3 Decentralization Debate Is Focused on the Wrong Question   Web3 去中心化争论的焦点是错误的 
+# The Web3 Decentralization Debate Is Focused on the Wrong Question   Web3 去中心化争论的焦点是错误的 
 https://www.wired.com/story/web3-blockchain-decentralization-governance/
 
 e believe decentralization’s value is in genuinely empowering people to act decisively within their social contexts, while providing mechanisms of necessary coordination across contexts. This is in contrast to the current technical landscape, where decisionmaking agency over information, computation, moderation, and so on is increasingly in the hands of authorities “distant” from the relevant groups—for example, platform content moderation processes try to be cross-community and cross-cultural, and largely fail at both. In this situation, decisions are removed from the context of application and made by people with little direct interest in the matters, who are then unable to take advantage of rich distributed information.  
@@ -387,13 +379,57 @@ e believe decentralization’s value is in genuinely empowering people to act de
 Our view of decentralization is about coordination. It emphasizes solving problems through the federation of “local” units, clustered around the social contexts most relevant to the decision at hand. This is not a new idea: US federalism, with local, state, and national governments, essentially pulls from this principle of _subsidiarity_, as does the setup of open source code repositories and wiki-like structures for information aggregation. The key is that these local units are _composable_—modular and interoperable with each other, essentially “stackable” to a more global scale—to enable decentralized systems to efficiently solve problems that may at first blush seem to require centralization for coordination. We call this model _composable local control._  
 ==我们对权力下放的看法是关于协调==。它强调通过“本地”单位的联合来解决问题，这些单位聚集在与当前决策最相关的社会背景周围。这并不是一个新想法：美国的联邦制，包括地方、州和国家政府，本质上都源于这种_辅助性_原则，开源代码存储库和用于信息聚合的类似维基结构的设置也是如此。关键是这些本地单元是_可组合的_——模块化且彼此可互操作，==本质上是“可堆叠”到更大的全球范围——使去中心化系统能够有效地解决乍一看似乎需要集中协调的问题。我们将此模型称为_可组合本地控制。_ =
 
+Composable local control would distribute decisionmaking, leveraging a core principle of both markets and democracy: Those closest to a problem usually have the most knowledge and the greatest stake in its resolution, and it is by aggregating, federating, and filtering this knowledge that the best collective decisions are made.  
+可组合的地方控制将分散决策，利用市场和民主的核心原则：那些最接近问题的人通常拥有最多的知识，并且在解决问题时利益攸关最大，并且通过聚合、联合和过滤这些知识，最好的决策做出集体决定
+
+The “decentralization” currently achieved by most canonical crypto projects, such as Bitcoin, is what we call “distributed redundancy”: global, open, consensus-based storage in many locations of a common, homogeneous data set. Distributed redundancy depends on three factors:  
+当前大多数规范加密项目（例如比特币）所实现的“去中心化”就是我们所说的“分布式冗余”：==在公共、同质数据集的许多位置进行全局、开放、基于共识的存储。==分布式冗余取决于三个因素：
+
+1. Maximally removing data from social context. (All interactions are boiled down to transactions as recorded in the ledger, with outside context unable to be represented in the technical architecture.)  
+    ==最大限度地从社交环境中删除数据。== （所有交互都归结为账本中记录的交易，外部上下文无法在技术架构中表示。）
+2. Aiming for universalized solutions. (A focus on “global” applicability requires all solutions to be applicable in all contexts.)  
+    ==旨在寻求通用的解决方案。== （注重“全球”适用性要求所有解决方案都适用于所有情况。）
+3. Relying on global consensus and redundant verification accessed using fungible resources. (Decisionmaking mechanisms are limited by tokens or computational puzzles; people with more financial resources have more of these.)  
+    ==依赖于使用可替代资源访问的全球共识和冗余验证。 ==（决策机制受到代币或计算难题的限制；拥有更多财力的人拥有更多这些。）
+
+In sharp contrast to these principles, the type of decentralization that we believe is desirable, subsidiarity, focuses on:  
+与这些原则形成鲜明对比的是，我们认为理想的权力下放类型，即辅助性，重点关注：
+
+1. Keeping data as close as possible to the [social context of creation](https://www.amazon.com/Privacy-Context-Technology-Policy-Integrity/dp/0804752370).  
+    ==让数据尽可能贴近[创作的社会背景](https://www.amazon.com/Privacy-Context-Technology-Policy-Integrity/dp/0804752370)。==
+2. A plurality of solutions linked and integrated through coordinated mechanisms of federation and interoperability.  
+    ==通过联合和互操作性的协调机制链接和集成多个解决方案。==
+3. Leveraging and extending relationships of online and offline trust and institutions.  
+    ==利用和扩展线上和线下信任和机构的关系。==
+
+  
+Perhaps the most famous system engineered to be subsidiary from the start is the original “network of networks,” the TCP/IP-based internet, which was architected in this way precisely for security and efficiency reasons, and has arguably had unprecedented success. More recent and more nascent examples include:  
+也许从一开始就被设计为附属的最著名的系统是最初的“网络的网络”，即基于 TCP/IP 的互联网，正是出于安全和效率原因而以这种方式构建的，并且可以说取得了前所未有的成功。最近和新生的例子包括：
+
+1. The [ActivityPub standard](https://www.w3.org/TR/activitypub/) for social networks and associated applications such as [Mastodon](https://mastodon.social/about).  
+    适用于社交网络和[Mastodon](https://mastodon.social/about)等相关应用程序的[ActivityPub 标准](https://www.w3.org/TR/activitypub/)。
+2. A range of research projects from [Ink and Switch](https://www.inkandswitch.com/), including an architecture for “[local-first](https://www.inkandswitch.com/pushpin/)” computing and [designs for interoperability across diverse programs](https://www.inkandswitch.com/cambria/).  
+    [Ink 和 Switch](https://www.inkandswitch.com/)的一系列研究项目，包括“[本地优先](https://www.inkandswitch.com/pushpin/)”计算架构和[跨不同程序的互操作性设计](https://www.inkandswitch.com/cambria/)。
+3. A range of socially local identity systems, such as [Spritely](https://spritelyproject.org/), [BrightID](https://www.brightid.org/), and [BackChannel](https://www.inkandswitch.com/backchannel/).  
+    一系列社交本地身份系统，例如[Spritely](https://spritelyproject.org/) 、 [BrightID](https://www.brightid.org/)和[BackChannel](https://www.inkandswitch.com/backchannel/) 。
+4. [Federated learning](https://www.openmined.org/) and broader privacy-preserving machine learning.  
+    [联邦学习](https://www.openmined.org/)和更广泛的隐私保护机器学习。
+5. [Mesh networks](https://en.wikipedia.org/wiki/Mesh_networking).  
+    [网状网络](https://en.wikipedia.org/wiki/Mesh_networking)。
+6. [Data collaboratives](https://datacollaboratives.org/), [cooperatives](https://hai.stanford.edu/news/radical-proposal-data-cooperatives-could-give-us-more-power-over-our-data), and [trusts](https://www.bennettinstitute.cam.ac.uk/blog/data-trusts1/#:~:text=What%20is%20a%20data%20trust,of%20access%20to%20the%20data.).  
+    [数据合作社](https://datacollaboratives.org/)、[合作社](https://hai.stanford.edu/news/radical-proposal-data-cooperatives-could-give-us-more-power-over-our-data)和[信托](https://www.bennettinstitute.cam.ac.uk/blog/data-trusts1/#:~:text=What%20is%20a%20data%20trust,of%20access%20to%20the%20data.)。
+7. [Wikipedia](https://www.wikipedia.org/) and wiki-based content structure more generally.  
+    [维基百科](https://www.wikipedia.org/)和基于维基的内容结构更为普遍。
+8. Community content moderation systems, such as [Reddit](https://www.reddit.com/).  
+    社区内容审核系统，例如[Reddit](https://www.reddit.com/) 。
+9. [Community-first cloud computing](https://link.springer.com/chapter/10.1007/978-3-642-10665-1_43), file storage, and time-sharing.  
+    [社区优先的云计算](https://link.springer.com/chapter/10.1007/978-3-642-10665-1_43)、文件存储和分时。
 
 
 
 
 
-
-### Birdwatch: Crowd Wisdom and Bridging Algorithms can Inform Understanding and Reduce the Spread of Misinformation
+# Birdwatch: Crowd Wisdom and Bridging Algorithms can Inform Understanding and Reduce the Spread of Misinformation
 https://arxiv.org/pdf/2210.15723
 
 
@@ -420,21 +456,21 @@ to rate notes “helpful” vs “not helpful”; 𝑖𝑢 is the user’s inter
 6.3 RQ3 As a final data point, A/B experiments conducted following the survey experiment compared engagement rates across users who were randomly assigned to be shown Tweet annotations compared to those shown no annotations. These annotations were presented (or not) during users’ normal use of Twitter. We found that those exposed to annotations on Tweets were 25-34% less likely to like or retweet them compared to the control group (see Fig. 7). This finding likely reflects an underestimate due to limitations in data collection. Processing latencies in our data pipeline made it challenging to strictly identify users who had been treated - resulting in small rates of false inclusion and exclusion. These issues result in treatment dilution whereby we expect the measured experimental effects to be biased toward zero.
 
 
-### Individual misinformation tagging reinforces echo chambers; Collective tagging does not
+# Individual misinformation tagging reinforces echo chambers; Collective tagging does not
 file:///Users/shiruizhou/Desktop/Individual%20Misinformation%20Tagging%20reinforces%20echo%20chambers.pdf
 The other ==key indicator of echo chambers== is their absence of content diversity resulting from limited engagement with diverse, unfamiliar topics. Emerging literature has documented the rise of socio-political endogamy, noting that both left and right increasingly develop distinct topical interests, encompassing knowledge bases, cultural tastes, and lifestyles41–43 . For example, left-leaning individuals are more likely to engage with basic science books about physics, astronomy, and zoology, while right-leaning individuals prefer those about applied and commercial sciences like criminology, medicine, and geophysics43 . In this way, political polarization spills over into a variety of other topics, leading to multi-dimensional segregation where opposing political groups share progressively less common ground and inhabit different realities even in topics apparently unrelated to politics41,44 . Topical echo chambers, which magnify topics prevalent within one political group and insulate them from others, can problematize intergroup communication and interaction.
 
 
 
-### Decentralized Society: Finding Web3’s Soul
+# Decentralized Society: Finding Web3’s Soul
 
 Web3 today centers around expressing transferable, nancialized assets, rather than encoding social relationships of trust. Yet many core economic activities—such as uncollateralized lending and building personal brands—are built on persistent, non-transferable relationships. In this paper, we illustrate how non-transferable “soulbound” tokens (SBTs) representing the commitments, credentials, and aliations of “Souls” can encode the trust networks of the real economy to establish provenance and reputation. More importantly, SBTs enable other applications of increasing ambition, such as community wallet recovery, sybil-resistant governance, mechanisms for decentralization, and novel markets with decomposable, shared rights. We call this richer, pluralistic ecosystem “Decentralized Society” (DeSoc)—a co-determined sociality, where Souls and communities come together bottom-up, as emergent properties of each other to co-create plural network goods and intelligences, at a range of scales. Key to this sociality is decomposable property rights and enhanced governance mechanisms—such as quadratic funding discounted by correlation scores—that reward trust and cooperation while protecting networks from capture, extraction, and domination. With such augmented sociality, web3 can eschew today’s hyper-nancialization in favor of a more transformative, pluralist future of increasing returns across social distance.
 
-### AI and Practicing Democracy
+# AI and Practicing Democracy
 https://ash.harvard.edu/resources/ai-and-practicing-democracy/
 
 
-#### Organizing: People, Power, Change
+# Organizing: People, Power, Change
 Organizing is how we equip **people** with the capacity to work with others to build the **power** they need to get the **change** they seek.4 As organizers, we always start by asking, “Who are my people?” Second, we ask, “What change do my people want?” And third, we ask, “How can we work together to turn the resources we have into the power we need to win that change?”  
 组织是我们如何让**人们**具备与他人合作的能力，以建立他们所需的**力量**来实现他们所寻求的**改变**。 4作为组织者，我们总是首先问“我的人民是谁？”其次，我们问：“我的人民想要什么改变？”第三，我们问：“我们如何共同努力，将我们拥有的资源转化为赢得变革所需的力量？”
 
@@ -479,7 +515,7 @@ An “upstream” approach, in contrast, is primarily concerned with how to **b
 Additionally, upstream approaches help us evaluate the potential limitations of AI models. Our research also explores whether large language models (LLMs) can be “taught” to recognize effective public narratives — a deeply emotional and relational leadership practice. The goal is not to replace human storytellers with machines but to recognize that algorithms have shaped our attention and behavior for years. This work asks how we might design algorithms that can recognize and prioritize values-based communication over marketing-oriented messaging, or whether LLMs might be missing something essential about human connection altogether.  
 此外，上游方法可以帮助我们评估人工智能模型的潜在局限性。==我们的研究还探讨了是否可以“教导”大型语言模型（ LLMs ）来识别有效的公共叙事——一种深刻的情感和关系型领导实践。我们的目标不是用机器取代人类讲故事的人，而是认识到算法多年来已经塑造了我们的注意力和行为。==这项工作询问我们如何设计能够识别基于价值观的沟通并将其优先于面向营销的消息传递的算法，或者LLMs是否可能完全忽略了人际关系的基本要素。
 
-### Augmented Deliberation 
+# Augmented Deliberation 
 https://www.plurality.net/v/chapters/5-4/zh-tw/?mode=dark
 
 
@@ -527,13 +563,13 @@ https://www.plurality.net/v/chapters/5-4/zh-tw/?mode=dark
 最大膽的是，這種想法原則上可以超越在世的人類。哲學家布魯諾·拉圖爾（Bruno Latour）在其經典著作《萬物議會》中認為，自然特徵（如河流和森林）在政府中應有代表權。當然，挑戰在於如何讓這些自然景觀說話。語言模型可能會提供一些方法，將對這些系統狀況的科學測量轉化為某種「Lorax」（雷斯），即蘇斯博士筆下為那些不能為自己說話的樹木和動物說話的神話生物。金·史丹利·羅賓遜（Kim Stanley Robinson）的《未來發展部》（Ministry for the Future）一書中也有類似的內容。無論好壞，這種基於語言模型的代表，都有能力以比大多數人類更快的速度進行討論，然後向人類參與者傳達討論摘要，從而使討論既包括人類個體，也允許其他風格、速度和規模的自然語言交流。
 
 
-### Ethics of decentralized social technologies 
+# Ethics of decentralized social technologies 
 https://ash.harvard.edu/wp-content/uploads/2024/03/Ethics-of-Decentralized-Social-Technologies-1.pdf
 One can also imagine radical, positive, and perhaps even existentially necessary transformations enabled by the above shifts. In his classic 1927 treatise, The Public and its Problems, John Dewey offered a response to the potential for technological advance to reshape patterns of human interactions in ways that capitalist organization can neither optimize nor hinder from producing catastrophically negative effects.14 The dangers are clear: Industrialism turns out to have set in motion potentially catastrophic climate change that, left to the devices of capitalism, will only accelerate. Advances in communications and transportation have created affinity groups scattered around the globe but united by shared values and infrastructure. In the current era, the lossy optimization incentives of capitalism may be further magnified by the introduction of carelessly deployed, reward-driven AI algorithms with far greater catastrophic effects.
 
 
 
-### Polis - Algorithms 
+# Polis - Algorithms 
 https://compdemocracy.org/algorithms/
 - First, read about the [polis opinion matrix](https://compdemocracy.org/polis-opinion-matrix "polis opinion matrix") to understand the format of data [Polis](https://compdemocracy.org/Polis "Polis") gathers from [participants](https://compdemocracy.org/participants "participants") and provides in its [export](https://compdemocracy.org/export "export")
 - Dimensionality reduction [👾 Algorithms](https://compdemocracy.org/Algorithms "👾 Algorithms") [Polis](https://compdemocracy.org/Polis "Polis") uses:
@@ -561,7 +597,7 @@ https://compdemocracy.org/algorithms/
 
 
 
-### ChatGPT 
+# ChatGPT 
 https://chatgpt.com/c/6742562b-0188-8000-bff1-b06dcf85c585
 Graph theory and network analysis have become instrumental in understanding and enhancing democratic deliberation. By modeling interactions within deliberative processes, these tools offer insights into communication patterns, influence dynamics, and the overall structure of discourse.图论和网络分析已成为理解和加强民主审议的工具。通过对审议过程中的互动进行建模，这些工具提供了对沟通模式、影响动态和话语整体结构的洞察。
 
@@ -791,19 +827,19 @@ Integrating Graph Neural Networks (GNNs) into the study of deliberative processe
 
 
 
-### Graph Neural Networks: Foundations, Frontier. and Applications 
+# Graph Neural Networks: Foundations, Frontier. and Applications 
 https://link.springer.com/book/10.1007/978-981-16-6054-2?utm_source=chatgpt.com
 
 
 
-### # A review of graph neural networks: concepts, architectures, techniques, challenges, datasets, applications, and future directions
+# A review of graph neural networks: concepts, architectures, techniques, challenges, datasets, applications, and future directions
 In recent years, deep learning (DL) has been called the gold standard in machine learning (ML). It has also steadily evolved into the most widely used computational technique in ML, producing excellent results on various challenging cognitive tasks, sometimes even matching or outperforming human ability. One benefit of DL is its capacity to learn enormous amounts of data [[1](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00876-4#ref-CR1 "Pucci A, Gori M, Hagenbuchner M, Scarselli F, Tsoi AC. Investigation into the application of graph neural networks to large-scale recommender systems, infona.pl, no. 32, no 4, pp. 17–26, 2006.")]. GNN variations such as graph convolutional networks (GCNs), graph attention networks (GATs), and GraphSAGE have shown groundbreaking performance on various deep learning tasks in recent years [[2](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00876-4#ref-CR2 "Mahmud FB, Rayhan MM, Shuvo MH, Sadia I, Morol MK. A comparative analysis of Graph Neural Networks and commonly used machine learning algorithms on fake news detection, Proc. - 2022 7th Int. Conf. Data Sci. Mach. Learn. Appl. CDMA 2022, pp. 97–102, 2022.")].  
 近年来，深度学习 （DL） 被称为机器学习 （ML） 的黄金标准。它还稳步发展成为 ML 中使用最广泛的计算技术，在各种具有挑战性的认知任务中产生出色的结果，有时甚至达到或超过人类的能力。深度学习的一个好处是它能够学习大量数据 [[1](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00876-4#ref-CR1 "Pucci A, Gori M, Hagenbuchner M, Scarselli F, Tsoi AC. Investigation into the application of graph neural networks to large-scale recommender systems, infona.pl, no. 32, no 4, pp. 17–26, 2006.")]。近年来，图卷积网络 （GCN）、图注意力网络 （GAT） 和 GraphSAGE 等 GNN 变体在各种深度学习任务中表现出突破性的性能 [[2](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00876-4#ref-CR2 "Mahmud FB, Rayhan MM, Shuvo MH, Sadia I, Morol MK. A comparative analysis of Graph Neural Networks and commonly used machine learning algorithms on fake news detection, Proc. - 2022 7th Int. Conf. Data Sci. Mach. Learn. Appl. CDMA 2022, pp. 97–102, 2022.")]。
 
 ![[Pasted image 20241124153204.png]]
 
 
-### Message passing mechanism in graph neural network  
+# Message passing mechanism in graph neural network  
 图神经网络中的消息传递机制
 
 Graph symmetries are maintained using a GNN, an optimizable transformation on all graph properties (nodes, edges, and global context) (permutation invariances). Because a GNN does not alter the connectivity of the input graph, the output may be characterized using the same adjacency list and feature vector count as the input graph. However, the output graph has updated embeddings because the GNN modified each node, edge, and global-context representation.  
@@ -827,7 +863,7 @@ The message-passing mechanism of Graph Neural Networks is shown in Fig. [7](htt
 图神经网络的消息传递机制如图 1 所示。[7](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00876-4#Fig7). 在本例中，我们采用一个包含一组节点特征 X ε Rd⇥|V|和利用这些知识生成节点嵌入 zu。但是，我们还将回顾 GNN 框架如何嵌入子图和整个图。
 
 
-##### Working of graph convolutional network  
+# Working of graph convolutional network  
 图卷积网络的工作原理
 
 A Graph Convolutional Network (GCN) is a type of neural network architecture designed for processing and analyzing graph-structured data. GCNs work by aggregating and propagating information through the nodes in a graph. GCN works with the following steps shown in Fig. [19](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00876-4#Fig19):  
@@ -890,7 +926,7 @@ GCN 通常用于多个层。这允许网络在图形中捕获更复杂的关系�
 The final output of the GCN can be used for various graph-based tasks, such as node classification, link prediction, or graph classification, depending on the specific application.  
 GCN 的最终输出可用于各种基于图形的任务，例如节点分类、链接预测或图形分类，具体取决于具体应用程序。
 
-### Rethinking Fair Graph Neural Networks from Re-balancing
+# Rethinking Fair Graph Neural Networks from Re-balancing
 
 https://arxiv.org/pdf/2407.11624
 
@@ -898,7 +934,7 @@ https://arxiv.org/html/2407.11624v1
 
 
 
-### # Cooperative Graph Neural Networks
+# Cooperative Graph Neural Networks
 https://arxiv.org/html/2310.01267v2
 
 https://github.com/Oliz888/CoGNN
@@ -911,6 +947,8 @@ https://github.com/Oliz888/CoGNN
   url = "https://arxiv.org/abs/2310.01267",
 }
 ```
+
+
 
 
 
