@@ -401,22 +401,42 @@ built upon Graph Neural Network. The proposed three modules
 can be added to previous GNN-based recommender systems and
 make up for their diversity shortcomings.
 
+## Fine-tuning language models to find agreement among humans with diverse preferences 
 
+https://www.semanticscholar.org/reader/de1c7ae2818aa26fc86a0ea8ed70014cffc8b20a
 
+## Persuation - fake news 
 
+## AI moderator in the group 
 
+## Elicitation Inferece Optimization for multi-principal-agent alignment 
+https://openreview.net/pdf?id=tkxnRPkb_H
 
+## Democratic Policy Development using Collective Dialogues and AI 
+https://peacepolls.etinu.net/peacepolls/documents/009674.pdf
 
+## "Generative AI" through collective response systems
+https://arxiv.org/pdf/2302.00672
 
+## Measuring Deliberation Measuring Deliberation2.0: Standards, Discourse Types, and Sequenzialization1
+https://ash.harvard.edu/wp-content/uploads/2024/02/baechtiger_0.pdf
 
+## A formmal theory of democratic deliberation 
+https://www.cambridge.org/core/journals/american-political-science-review/article/formal-theory-of-democratic-deliberation/78A6828E834595C799DB4103C1C7976B?utm_source=chatgpt.com
 
+## Rethinking Fair Graph Neural Networks from Re-balancing
+https://arxiv.org/pdf/2407.11624
 
+## Graph Machine Learning in the Era of Large Language Models (LLMs)
+https://arxiv.org/html/2404.14928v2
 
+## Bridging Systems: Open problems for countering destructive divisiveness across ranking, recommenders, and governance
+An allocation system (or simply allocator) is a process that determines which of many potential allocations will actually occur, taking as input a set of potential allocations and outputting a set of realized allocations.
 
-
-
-
-
+set of potential allocations -> value model -> selection 
+impact prediction (e.g. engagement, knowledge, harm, entertainment) 
+value model (can incorporate the bridging impact) 
+selection [value optimization] - realized allocations 
 
 
 
