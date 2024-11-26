@@ -1,6 +1,9 @@
 ## Abstract
 
-The digital age has transformed democratic deliberation, often leading to increased polarization and a loss of contextual nuance in public discourse. This research explores the integration of Graph Foundational Models (GFMs) and Distributed System Technologies (DSTs) to enhance large-scale democratic deliberation. By leveraging GFMs to model complex social interactions and DSTs to ensure transparent and decentralized data governance, this study aims to restore context and nuance to public discussions, counter polarization, and promote data as a public good serving societal interests.
+
+Filter bubbles, group polarization, and engagement-based algorithms, echoing historical mass manipulation tactics, have artificially created a context-collapsed and fragmented society. While public attention and digital platforms, in essence, serve as public goods, they are currently governed by social media giants in most capitalist societies, creating deeply rooted incentive misalignments. Alternative solutions offered by authoritarian states present another dystopian picture—the surveillance-driven control reminiscent of George Orwell's 1984, exemplified by the Chinese government's comprehensive monitoring systems.
+
+This research explores the integration of Graph Foundational Models (GFMs) and Distributed System Technologies (DSTs) to enhance large-scale democratic deliberation. By leveraging GFMs to model complex social interactions and DSTs to ensure transparent and decentralized data governance, this study aims to restore context and nuance to public discussions, counter polarization, and promote data as a public good serving societal interests.
 
 ## Introduction
 
